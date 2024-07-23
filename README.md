@@ -13,7 +13,11 @@
 ---
 
 ### 📺 Latest YouTube Videos
-I regularly upload videos on my [YouTube channel](https://www.youtube.com/channel/your-channel-id), featuring music performances, tutorials, and behind-the-scenes content.
+I regularly upload videos on my [YouTube channel](https://www.youtube.com/channel/UCDPWZIa6af90b7l3RUScLQ) in various genres from Power Metal, to Pop Punk, to Elctronic and more. Click the casset tapes below to go to the associated playlist.
+
+
+<a href="https://www.youtube.com/playlist?list=PL7ieyZ4bVoUxhrW_V-0KwOoS26exDdvir"><img src="https://i.imgur.com/0ZfjZ0s.png" alt="MarineGEO circle logo" style="height: 128px; width: 214px;"/></a>
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
