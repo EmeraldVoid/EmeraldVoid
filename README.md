@@ -12,13 +12,11 @@ I'm Emerald_Void, the owner and operator of the Nostalgiacade brands. I'm a pass
 
 # About the Brands
 
-## Nostalgiacade Gaming
+### Nostalgiacade Gaming
 This is where it all started! Nostalgiacade Gaming is a YouTube channel dedicated to my gaming content, featuring playthroughs, reviews, and more.
 
 
----
-
-## Nostalgiacade Beats
+### Nostalgiacade Beats
 The newest addition to the brand! Nostalgiacade Beats is a YouTube channel focused on music I create using Udio, an AI-powered music generation tool.
 
 Stay tuned for updates, projects, and new developments across all Nostalgiacade Media platforms!
