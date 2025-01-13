@@ -10,7 +10,6 @@ Hello, everyone! Welcome to the official GitHub repo for Nostalgiacade Media—y
 
 I'm Emerald_Void, the owner and operator of the Nostalgiacade brands. I'm a passionate gamer and a huge fan of anime, sci-fi, and RPGs. This GitHub repository is where I share my creative projects, ideas, and works in progress with the community. Thanks so much for stopping by—I hope to see you around!
 
-# About the Brands
 
 ### Nostalgiacade Gaming
 This is where it all started! Nostalgiacade Gaming is a YouTube channel dedicated to my gaming content, featuring playthroughs, reviews, and more.
