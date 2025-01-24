@@ -20,7 +20,7 @@ I create a variety of content, including gameplay videos, game reviews, tutorial
 ---
 
 ## 🎮 About the Twitch  
-Much like my YouTube, I play a variety of games on stream. I also occasionally dabble in speedrunning! If you’re curious about the software and widgets I use to enhance my Twitch streams, you’ll find them in [this repository](https://github.com/EmeraldVoid/stream-stuff).  
+Much like my YouTube, I play a variety of games on stream. I also occasionally dabble in speedrunning! If you’re curious about the software and widgets I use to enhance my Twitch streams, you’ll find them in [this repository](https://emeraldvoid.github.io/stream-stuff/).  
 
 - [Twitch Channel](https://www.twitch.tv/emerald_void)  
 
