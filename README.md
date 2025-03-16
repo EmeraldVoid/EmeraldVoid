@@ -20,3 +20,10 @@ Much like my YouTube, I play a variety of games on stream. I also occasionally d
 - [Twitch Channel](https://www.twitch.tv/emerald_void)  
 
 Feel free to explore, use, and share the resources here. Thanks for stopping by! 🎉
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emeraldvoid/emeraldvoid/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emeraldvoid/emeraldvoid/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emeraldvoid/emeraldvoid/output/pacman-contribution-graph.svg">
+</picture>
+
