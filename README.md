@@ -4,6 +4,16 @@
 
 Hello everyone and welcome to the repository! My name is Emerald_Void and I am a variety YouTuber and Twitch streamer. 
 
+### ❤️ Things I love:
+
+- ⚔️ RPGs/JRPGs (*Final Fantasy* series, *KotOR I & II*)
+- 🎷 Jazz Fusion (Caldera, Spin, Nucleus)
+- 🖥️ Computers, Technology, Coding, Web Design, Graphic Design
+- 🐱 Cats (I have 2)
+- 🍣 Sushi
+- 💕 Anime (*Monster, Berserk, Dragon Ball Z*)
+
+
 ---
 
 ## 🎥 About the YouTube  
