@@ -19,7 +19,7 @@ Hello everyone and welcome to the repository! My name is Emerald_Void and I am a
 ## 🎥 About the YouTube  
 I create a variety of content, including gameplay videos, game reviews, tutorials for various software, and much more. Whether you’re here for nostalgia or learning something new, there’s something for everyone!  
 
-- [Nostalgiacade Beats](https://www.youtube.com/channel/UCDPWZIa6af90b7l3RUScLQA)  
+- [Wax Vault](https://www.youtube.com/@WaxVault))  
 - [Nostalgiacade Gaming](https://www.youtube.com/@nostalgiacade)  
 
 ---
