@@ -20,7 +20,7 @@ Hello everyone and welcome to the repository! My name is Emerald_Void and I am a
 I create a variety of content, including gameplay videos, game reviews, tutorials for various software, and much more. Whether you’re here for nostalgia or learning something new, there’s something for everyone!  
 
 - [Wax Vault](https://www.youtube.com/@WaxVault)
-- [Nostalgiacade Gaming](https://www.youtube.com/@nostalgiacade)  
+- [Emerald_Void](https://www.youtube.com/@emerald_void)  
 
 ---
 
